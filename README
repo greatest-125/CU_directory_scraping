@@ -1,1 +1,2 @@
 Use this script to scrape the Columbia University directory for emails! Create an excel spreadsheet (add the path to the script, also add your chromedriver path to the script) with one column titled "Professors" and the other titled "Email." 
+Put the name of the Professors in the Professor column and this script will fetch the emails for them.
